@@ -39,3 +39,17 @@ C:\TAFESA\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\Prod
 C:\TAFESA\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.CoreCompileInputs.cache
 C:\TAFESA\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
 C:\TAFESA\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.AssemblyReference.cache
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.cache
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.CoreCompileInputs.cache
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\TAFESA\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
