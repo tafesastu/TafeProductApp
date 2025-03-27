@@ -36,6 +36,7 @@ namespace ProductApps
                 totalPaymentTextBlock.Text = Convert.ToString(cProduct.TotalPayment);
                 totalPaymentAfterDeliveryTextBlock.Text = Convert.ToString(cProduct.TotalPayment + 25);
                 totalPaymentAfterWrapTextBlock.Text = Convert.ToString(cProduct.TotalPayment + 25 + 5);
+                totalPaymentAfterGstTextBlock.Text = (((double)cProduct.TotalPayment + 25 + 5) * 1.1).ToString("c");
             }
             catch (FormatException)
             {
